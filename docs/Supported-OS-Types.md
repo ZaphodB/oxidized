@@ -204,6 +204,8 @@
   * [Quanta / VxWorks 6.6 (1.1.0.8)](/lib/oxidized/model/quantaos.rb)
 * Siklu
   * [EtherHaul](/lib/oxidized/model/siklu.rb)
+* SONiC (Software for Open Networking in the Cloud)
+  * [SONiC](/lib/oxidized/model/sonic.rb)
 * SonicWALL
   * [SonicOS](/lib/oxidized/model/sonicos.rb)
 * SNR
